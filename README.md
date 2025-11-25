@@ -1,56 +1,111 @@
-<h4 align="left">Me chamo Vinícius Santana Lima, tenho 27 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio. Sou apaixonado por tecnologia, inovação, conhecimento e pela criação de projetos que trazem impacto na sociedade.</h4>
+<h1 align="center">Olá, me chamo Vinícius Santana 👋</h1>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia, inovação e projetos de impacto</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniVSL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViniVSL&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🔹 Sobre mim
+<p>
+Tenho 27 anos e atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade Estácio.  
+Sou curioso, persistente e busco sempre aprender novas tecnologias, desenvolvendo projetos criativos que agreguem valor.
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
+## 📫 Contato
 
-###
+<p align="center"
+<p align="left">
+<a href="https://www.linkedin.com/in/vinivsl-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinivsl-dev/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vinisantanalima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vinisantanalima/" height="30" width="40" /></a>
+<p align="center">
+<a href="mailto:vinicius.santana.lima16@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
+</p>
+
+---
+
+## 💻 Projetos em Destaque
 
 <div align="center">
-  <a href="https://www.instagram.com/vinisantanalima/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:vinicius.santana.lima16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vinivsl-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+### 🥋 Estilos de Artes Marciais
+<p>
+Site interativo criado durante a Imersão Dev (Alura + Google) para explorar diferentes estilos de artes marciais.
+</p>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+<p>
+<a href="https://vinivsl.github.io/arte-marcial-imersao-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar Projeto-blue?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+### 🔧 Task Manager
+<p>
+Sistema de gerenciamento de tarefas, que permite criar, atualizar e organizar tarefas de forma prática e intuitiva.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+<p>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Em Breve-blue?style=for-the-badge"/>
+</a>
+</p>
+
+---
+
+### 🐞 Bug Tracker
+<p>
+Sistema de rastreamento de bugs para organização de problemas e melhorias de projetos, desenvolvido com Django.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+<p>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Em Breve-blue?style=for-the-badge"/>
+</a>
+</p>
+
 </div>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+## 🛠 Tecnologias e Ferramentas
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&height=35"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&height=35"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&height=35"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&height=35"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&height=35"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&height=35"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&height=35"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&height=35"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&height=35"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&height=35"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&height=35"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&height=35"/>
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ViniVSL&theme=dracula&border_radius=4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats) ![Estatísticas do GitHub de ViniVSL](https://github-readme-stats-inky-beta-15.vercel.app/api?username=ViniVSL&show_icons=true&theme=dracula&locale=pt-br)
+
+---
+
+<div align="center">
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=gradient"/>
 </div>
-
-###
